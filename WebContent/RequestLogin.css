@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+table, td {
+	border: 1px solid black;
+	text-align: center;
+	margin: 0 auto;
+	width: 600px;
+}
+
+td {
+	height: 50px;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-family: "Times New Roman", sans-serif;
+	color: steelblue;
+	text-align: center;
+}
+
+title {
+	text-transform: capitalize;
+}
+
+span {
+	font-size: 30px;
+	font-style: italic;
+	font-weight: bold;
+}
+

@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+
+table, td {
+	border: 1px solid black;
+	width: 700px;
+	margin: 0 auto;
+}
+
+
+body {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+.hobby, .age {
+	font-size: 10px;
+	display: inline-block;
+	width: 10px;
+}
+
+input {
+	width: 200px;
+}
