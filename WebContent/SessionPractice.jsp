@@ -11,6 +11,7 @@
 	String name = "Jason";
 	/* second Answer */
 	session.setAttribute("theName", name);
+	session.setMaxInactiveInterval(10); // maintain session time for 10 sec.
 
 %>
 
